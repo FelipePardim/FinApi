@@ -33,23 +33,23 @@
 
 ## Project Requirements
 
-- [x] Deve ser possível criar umma conta
-- [ ] Deve ser possível buscar o extrato bancário do cliente
-- [ ] Deve ser possível realizar um depósito
-- [ ] Deve ser possível realizar um saque
-- [ ] Deve ser possível buscar o extrato bancário do cliente por data
-- [ ] Deve ser possível atualizar dados da conta do cliente
-- [ ] Deve ser possível obter dados da conta do cliente
-- [ ] Deve ser possível deletar uma conta
+- [ ] It must be possible to create an account.
+- [ ] It must be possible to search for the customer's bank statement.
+- [ ] It must be possible to make a deposit.
+- [ ] It must be possible to withdraw.
+- [ ] It must be possible find a costumer bank statement by date.
+- [ ] It must be possible to update costumer account data.
+- [ ] It must be possible obtain costumer account data.
+- [ ] It must be possible delete a account.
 
 ## Business Rules
 
-- [ ] Não deve ser possível cadastrar uma conta com CPF já existente
-- [ ] Não deve ser possível fazer depósito em uma conta não existente
-- [ ] Não deve ser possível buscar extrato em uma conta não existente
-- [ ] Não deve ser possível fazer saque em uma conta não existente
-- [ ] Não deve ser possível excluir uma conta não existente
-- [ ] Não deve ser possível fazer saque quando o saldo for insuficiente
+- [ ] It should not be possible to register an account with an existing CPF.
+- [ ] It should not be possible to deposit for a nonexistent account
+- [ ] It should not be possible to obtain a bank statement for a nonexistent account.
+- [ ] It should not be possible to withdraw on a nonexistent account.
+- [ ] It should not be possible to delete a nonexistent account.
+- [ ] It should not be possible to withdraw when account balance is insufficient.
 
 ---
 
