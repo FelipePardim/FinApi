@@ -1,0 +1,13 @@
+{
+  "name": "FinApi",
+  "version": "0.0.1",
+  "description": "An financial aplication",
+  "main": "index.js",
+  "repository": "git@github.com:FelipePardim/FinApi.git",
+  "author": "Felipe Pardim <felipesantos.2017@alunos.utfpr.edu.br>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
