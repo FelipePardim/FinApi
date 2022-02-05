@@ -37,7 +37,7 @@
 - [x] It must be possible to search for the customer's bank statement.
 - [x] It must be possible to make a deposit.
 - [x] It must be possible to withdraw.
-- [ ] It must be possible find a costumer bank statement by date.
+- [x] It must be possible find a costumer bank statement by date.
 - [ ] It must be possible to update costumer account data.
 - [ ] It must be possible obtain costumer account data.
 - [ ] It must be possible delete a account.
