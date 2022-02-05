@@ -35,7 +35,7 @@
 
 - [x] It must be possible to create an account.
 - [x] It must be possible to search for the customer's bank statement.
-- [ ] It must be possible to make a deposit.
+- [x] It must be possible to make a deposit.
 - [ ] It must be possible to withdraw.
 - [ ] It must be possible find a costumer bank statement by date.
 - [ ] It must be possible to update costumer account data.
@@ -46,7 +46,7 @@
 
 - [x] It should not be possible to register an account with an existing CPF.
 - [x] It should not be possible to deposit for a nonexistent account
-- [ ] It should not be possible to obtain a bank statement for a nonexistent account.
+- [x] It should not be possible to obtain a bank statement for a nonexistent account.
 - [ ] It should not be possible to withdraw on a nonexistent account.
 - [ ] It should not be possible to delete a nonexistent account.
 - [ ] It should not be possible to withdraw when account balance is insufficient.
