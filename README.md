@@ -40,7 +40,7 @@
 - [x] It must be possible find a costumer bank statement by date.
 - [x] It must be possible to update costumer account data.
 - [x] It must be possible obtain costumer account data.
-- [ ] It must be possible delete a account.
+- [x] It must be possible delete a account.
 
 ## Business Rules
 
@@ -48,7 +48,7 @@
 - [x] It should not be possible to deposit for a nonexistent account
 - [x] It should not be possible to obtain a bank statement for a nonexistent account.
 - [x] It should not be possible to withdraw on a nonexistent account.
-- [ ] It should not be possible to delete a nonexistent account.
+- [x] It should not be possible to delete a nonexistent account.
 - [x] It should not be possible to withdraw when account balance is insufficient.
 
 ---
