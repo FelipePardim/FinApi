@@ -133,4 +133,14 @@ app.delete("/account", verifyIfExistsAccountByCPF, (request, response) => {
     return response.status(200).json({ customers });
 })
 
-app.listen(3000);
+app.get("/balance", verifyIfExistsAccountByCPF, (request, response) => {
+    const { customer } = request;
+
+    const balance = getBalance(customer.statement);
+
+    return response.status(200).json({ balance });
+})
+
+app.listen(3000, () => {
+    console.log("Server started 🌐🟢");
+});

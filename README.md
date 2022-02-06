@@ -41,6 +41,7 @@
 - [x] It must be possible to update costumer account data.
 - [x] It must be possible obtain costumer account data.
 - [x] It must be possible delete a account.
+- [x] It must be possible obtain a customer balance.
 
 ## Business Rules
 
