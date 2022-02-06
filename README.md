@@ -38,8 +38,8 @@
 - [x] It must be possible to make a deposit.
 - [x] It must be possible to withdraw.
 - [x] It must be possible find a costumer bank statement by date.
-- [ ] It must be possible to update costumer account data.
-- [ ] It must be possible obtain costumer account data.
+- [x] It must be possible to update costumer account data.
+- [x] It must be possible obtain costumer account data.
 - [ ] It must be possible delete a account.
 
 ## Business Rules
